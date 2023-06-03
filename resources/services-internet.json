@@ -3328,7 +3328,7 @@
   {
         "id": "MJP1_EG_F",
         "name": "MJP1 Geschosse",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_EG_F.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_EG_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
