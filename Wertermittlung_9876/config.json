@@ -1,0 +1,744 @@
+{
+    "Portalconfig": {
+        "portalTitle": {
+            "title": "Wertermittlung Berlin Mitte",
+            "logo": "../resources/img/Wappen.png",
+            "link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/",
+            "tooltip": "Bezirksamt Mitte, FB Vermessung"
+        },
+	"singleBaselayer": true,
+        "treeType": "custom",
+        "searchBar": {
+
+            "bkg": {
+                "minChars": 3,
+                "suggestServiceId": "4",
+                "geosearchServiceId": "5",
+                "extent": [384000.0, 5817000.0, 394000.0, 5826000.0],
+                "suggestCount": 10,
+                "epsg": "EPSG:25833",
+                "filter": "filter=(ort:Mitte, Moabit, Hansaviertel, Gesundbrunnen, Wedding, Tiergarten)",
+                "zoomToResult": true,
+                "score": 0.6
+            },
+            "osm": {
+                "minChars": 3,
+                "serviceId": "10",
+                "limit": 60,
+                "states": "Berlin",
+                "classes": "place,highway,building,shop,historic,leisure,city,county"
+            },
+            "komoot": {
+                "minChars": 3,
+                "serviceId": "11",
+                "limit": 20,
+                "lang": "de",
+                "lat": 53.6,
+                "lon": 10.0,
+                "state": "Berlin",
+                "bbox": "13.29,52.49,13.43,52.57"
+            },
+
+            "visibleVector": {
+                "minChars": 3,
+                "layerTypes": ["WFS", "GeoJSON"]
+            },
+            "tree": {},
+            "startzoomLevel": 2,
+            "placeholder": "Suche nach: Straße, Haus-Nr.",
+            "parcelSearch": true
+        },
+        "mapView": {
+            "backgroundImage": "",
+            "startCenter": [389437.73, 5821509.84],
+            "extent": [227879, 3932632, 1044484, 8893131],
+            "startZoomLevel": 2,
+            "epsg": "EPSG:25833",
+            "options": [{
+                    "resolution": 15.874991427504629,
+                    "scale": 60000,
+                    "zoomLevel": 0
+                },
+                {
+                    "resolution": 10.583327618336419,
+                    "scale": 40000,
+                    "zoomLevel": 1
+                },
+                {
+                    "resolution": 5.2916638091682096,
+                    "scale": 20000,
+                    "zoomLevel": 2
+                },
+                {
+                    "resolution": 2.6458319045841048,
+                    "scale": 10000,
+                    "zoomLevel": 3
+                },
+                {
+                    "resolution": 1.3229159522920524,
+                    "scale": 5000,
+                    "zoomLevel": 4
+                },
+                {
+                    "resolution": 0.6614579761460262,
+                    "scale": 2500,
+                    "zoomLevel": 5
+                },
+                {
+                    "resolution": 0.2645831904584105,
+                    "scale": 1000,
+                    "zoomLevel": 6
+                },
+                {
+                    "resolution": 0.13229159522920521,
+                    "scale": 500,
+                    "zoomLevel": 7
+                }
+            ]
+        },
+        "menu": {
+            "tree": {
+                "name": "Themen"
+            },
+            "tools": {
+                "name": "Werkzeuge",
+                "children": {
+                    "gfi": {
+                        "name": "Informationen abfragen",
+                        "glyphicon": "glyphicon-info-sign",
+                        "active": true,
+                        "desktopType": "attached"
+                    },
+
+                    "searchByCoord": {
+                        "name": "Koordinatensuche"
+                    },
+                    "coord": {
+                        "name": "Koordinaten abfragen"
+                    },
+                    "measure": {
+                        "name": "Strecke / Fläche messen"
+                    },
+                    "saveSelection": {
+                        "name": "Auswahl speichern"
+                    },
+                    "draw": {
+                        "name": "Zeichnen / Schreiben",
+                        "renderToWindow": false
+                    },
+                    
+		    "layerSlider": {
+                        "name": "Luftbilder 2004-2021",
+                        "glyphicon": "glyphicon-film",
+                        "title": "Luftbilder 2004-2021",
+                        "sliderType": "player",
+                        "timeInterval": 8000,
+                        "layerIds": [{
+                                "title": "2004",
+                                "layerId": "luftbild2004:0"
+                            },
+                            {
+                                "title": "2007",
+                                "layerId": "k_luftbild2007:0"
+                            },
+                            {
+                                "title": "2009",
+                                "layerId": "k_luftbild2009_20:0"
+                            },
+                            {
+                                "title": "2010",
+                                "layerId": "k_luftbild2010_rgb:0"
+                            },
+                            {
+                                "title": "2011",
+                                "layerId": "k_luftbild2011_20:0"
+                            },
+                            {
+                                "title": "2014",
+                                "layerId": "k_luftbild2014:0"
+                            },
+                            {
+                                "title": "2015",
+                                "layerId": "k_luftbild2015_rgb:0"
+                            },
+                            {
+                                "title": "2016",
+                                "layerId": "k_luftbild2016_rgb:0"
+                            },
+                            {
+                                "title": "2017",
+                                "layerId": "k_luftbild2017_rgb:0"
+                            },
+                            {
+                                "title": "2018",
+                                "layerId": "k_luftbild2018_rgb:0"
+                            },
+                            {
+                                "title": "2019",
+                                "layerId": "k_luftbild2019_rgb:0"
+                            },
+                            {
+                                "title": "2020",
+                                "layerId": "k_luftbild2020_rgb:0"
+                            },
+                            {
+                                "title": "2021",
+                                "layerId": "k_luftbild2021_rgb:0"
+                            },
+			    {
+                                "title": "2022",
+                                "layerId": "k_luftbild2022_true_rgbi:0"
+                            }
+
+                        ]
+                    },
+
+                    "print": {
+                        "name": "Drucken",
+                        "version": "mapfish_print_3",
+                        "mapfishServiceId": "mapfish",
+                        "filename": "karte",
+                        "title": "Karte",
+                        "isVisibleInMenu": true
+
+
+                    }
+
+                }
+            },
+
+            "legend": {
+                "name": "Legende"
+            },
+            "info": {
+                "name": "Informationen",
+                "children": {
+                    "staticlinks": [{
+                            "name": "Kataster & Vermessungsamt Berlin Mitte",
+                            "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/"
+                        },
+						{
+                            "name": "Grundstückswertermittlung Berlin Mitte",
+                            "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/artikel.117920.php"
+                        },
+                        {
+                            "name": "Gutachterausschuss für Grundstückswerte in Berlin",
+                            "url": "https://www.berlin.de/gutachterausschuss/"
+                        },
+                        {
+                            "name": "FIS-Broker SenStadt",
+                            "url": "https://fbinter.stadt-berlin.de/fb/index.jsp"
+                        }
+
+                    ]
+                }
+
+            }
+        },
+        "controls": {
+            "fullScreen": true,
+            "zoom": true,            
+            "attributions": {
+                "isInitOpenDesktop": false,
+                "isInitOpenMobile": false
+            },
+            "mousePosition": true,
+            "overviewMap": {
+                "layerId": "fis_webatlas_sw",
+                "isInitOpen": false
+            }
+        }
+    },
+
+    "Themenconfig": {
+        "Hintergrundkarten": {
+
+            "Layer": [{
+                    "id": "myId1",
+                    "name": "Hintergrundkarte (farbig)",
+                    "visibility": false,
+                    "children": [{
+                            "id": "fis_k5_f",
+                            "minScale": "0",
+                            "maxScale": "5009"
+                        },
+                        {
+                            "id": "fis_webatlas_f",
+                            "minScale": "5010",
+                            "maxScale": "250000"
+                        }
+                    ]
+                },
+                {
+                    "id": "myId2",
+                    "name": "Hintergrundkarte (schwarz/ weiß)",
+                    "visibility": false,
+                    "children": [{
+                            "id": "fis_k5_sw",
+                            "minScale": "0",
+                            "maxScale": "5009"
+                        },
+                        {
+                            "id": "fis_webatlas_sw",
+                            "minScale": "5010",
+                            "maxScale": "250000"
+                        }
+                    ]
+                },
+                {
+                    "id": "myId5",
+                    "name": "Berlin-Zoom (SW-Ausgabe)",
+                    "visibility": true,
+                    "children": [{
+                            "id": "990006",
+                            "minScale": "0",
+                            "maxScale": "40000"
+                        }
+
+                    ]
+                },
+                {
+                    "id": "Alkis_Fis",
+                    "name": "ALKIS (farbig)"
+                },
+                {
+                    "id": "Alkis_sw_Fis",
+                    "name": "ALKIS (sw)"
+                }
+
+
+
+
+            ]
+        },
+        "Fachdaten": {
+            "name": "Fachdaten",
+            "Ordner": [{
+                    "Titel": "Luftbilder",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "luftbild2004:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2007:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2009_20:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2010_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2011_20:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2014:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2015_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+
+                        {
+                            "id": "k_luftbild2016_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2017_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2018_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+                        {
+                            "id": "k_luftbild2019_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+
+                        {
+                            "id": "k_luftbild2020_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+
+                        {
+                            "id": "99truedop20rgb",
+                            "minScale": "50",
+                            "maxScale": "210000"
+
+                        },
+
+                        {
+                            "id": "k_luftbild2021_rgb:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        },
+
+                        {
+                            "id": "k_luftbild2022_true_rgbi:0",
+                            "minScale": "50",
+                            "maxScale": "210000"
+                        }
+
+
+                    ]
+                },
+		
+
+                {
+                    "Titel": "Wohnlagenkarte",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "g_wohnlagenadr2017",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2017",
+                            "children": [{
+                                    "id": "k_wohnlagenadr2017:1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "g_wohnlagenadr2019",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2019",
+                            "children": [{
+                                    "id": "k_wohnlagenadr2019:1"
+                                }
+                            ]
+                        },
+			{
+                            "id": "g_wohnlagenadr2021",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021",
+                            "children": [{
+                                    "id": "k_wohnlagenadr2021:1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+		      
+		  {
+                    "Titel": "Erhaltungsverordnungsgebiete § 172 BauGB",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "g_erhaltgeb:1",
+                            "name": "Erhaltung der städtebaulichen Eigenart",
+                            "children": [{
+                                    "id": "k_erhaltgeb:1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "g_erhaltgeb:2",
+                            "name": "Erhaltung der Zusammensetzung der Wohnbevölkerung",
+                            "children": [{
+                                    "id": "k_erhaltgeb:2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+		       
+		{
+                    "Titel": "Bodenrichtwerte",
+                    "isFolderSelectable": false,                    
+                    "Layer": [{
+                            "id": "g_bodenrichtwerte2015",
+                            "name": "Bodenrichtwerte 2015",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2015_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"				
+                    			},
+                    			{
+                        	"id": "s_brw_2015",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"		
+                    			}
+                            		]
+                        	},
+			      
+			      {
+                            "id": "g_bodenrichtwerte2016",
+                            "name": "Bodenrichtwerte 2016",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2016_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2016",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"		
+                    			}
+                            		]
+                        	},
+			      {
+                            "id": "g_bodenrichtwerte2017",
+                            "name": "Bodenrichtwerte 2017",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2017_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2017",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"		
+                    			}
+                            		]
+                        	},
+              
+				{
+                            "id": "g_bodenrichtwerte2018",
+                            "name": "Bodenrichtwerte 2018",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2018_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2018",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"
+                    			}
+                            		]
+                        	},
+              
+				{
+                            "id": "g_bodenrichtwerte2019",
+                            "name": "Bodenrichtwerte 2019",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2019_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2019",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"
+                    			}
+                            		]
+                        	},
+              
+				
+              
+              
+				{
+                            "id": "g_bodenrichtwerte2020",
+                            "name": "Bodenrichtwerte 2020",
+			    "visibility": false,
+                            "children": [ {
+                        	"id": "brw_2020_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2020",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"
+                    			}
+                            		]
+                        	},
+              
+				{
+                            "id": "g_bodenrichtwerte2021",
+                            "name": "Bodenrichtwerte 2021",
+			    "visibility": true,
+                            "children": [ {
+                        	"id": "brw_2021_amtlich:234",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    			},
+                    			{
+                        	"id": "s_brw_2021",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+				"styleId": "990009"
+                    			}
+                            		]
+                        	}
+                       
+                    ]
+                },
+                {
+                    "Titel": "ÖPNV",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "OePNV_Fernverkehr",
+                            "name": "Fernverkehr",
+                            "children": [{
+                                    "id": "Fernverkehr_L",
+                                    "mouseHoverField": ["name"],
+                                    "styleId": "Fernverkehr.LI"
+                                },
+                                {
+                                    "id": "Fernverkehr_P",
+                                    "mouseHoverField": ["name"],
+                                    "searchField": ["name"],
+                                    "styleId": "Fernverkehr.PKT"
+                                }
+
+                            ]
+                        },
+                        {
+                            "id": "OePNV_S-Bahn",
+                            "name": "S-Bahn",
+                            "children": [{
+                                    "id": "S-Bahn_L",
+                                    "mouseHoverField": ["name"],
+                                    "styleId": "S-Bahn.LI"
+
+                                },
+                                {
+                                    "id": "S-Bahn_P",
+                                    "mouseHoverField": ["name"],
+                                    "searchField": ["name"],
+                                    "styleId": "S-Bahn.PKT"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "OePNV_U-Bahn",
+                            "name": "U-Bahn",
+                            "children": [{
+                                    "id": "U-Bahn_L",
+                                    "mouseHoverField": ["name"],
+                                    "styleId": "U-Bahn.LI"
+
+                                },
+                                {
+                                    "id": "U-Bahn_P",
+                                    "mouseHoverField": ["name"],
+                                    "searchField": ["name"],
+                                    "styleId": "U-Bahn.PKT"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "OePNV_Tram",
+                            "name": "Tram",
+                            "children": [{
+                                    "id": "Tram_L",
+                                    "mouseHoverField": ["name"],
+                                    "styleId": "Tram.LI"
+
+                                },
+                                {
+                                    "id": "Tram_P",
+                                    "mouseHoverField": ["NAME"],
+                                    "searchField": ["NAME"],
+                                    "styleId": "Tram.PKT"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "OePNV_Bus",
+                            "name": "Bus",
+                            "children": [{
+                                    "id": "Bus_L",
+                                    "mouseHoverField": ["name"],
+                                    "styleId": "Bus.LI"
+
+                                },
+                                {
+                                    "id": "Bus_P",
+                                    "mouseHoverField": ["NAME"],
+                                    "searchField": ["NAME"],
+                                    "styleId": "Bus.PKT"
+                                }
+                            ]
+                        }
+
+                    ]
+                }
+
+
+
+            ],
+            "Layer": [
+                          
+                
+
+                {
+                    "id": "B-Plan",
+                    "name": "Bebauungspläne",
+                    "children": [{
+                            "id": "B-Plan_F",
+                            "mouseHoverField": ["NUMMER"],
+                            "styleId": "BPlan_F_Style"
+                        },
+                        {
+                            "id": "B-Plan_T",
+                            "styleId": "BPlan_T_Style"
+                        },
+                        {
+                            "id": "B-Plan_L",
+                            "styleId": "BPlan_L_Style"
+                        }
+
+                    ]
+                },
+
+                {
+                    "id": "Schul",
+                    "name": "Schulen",
+                    "children": [{
+                            "id": "Schulen_F",
+                            "mouseHoverField": ["NAME"],
+                            "styleId": "Schulen.fl"
+                        },
+                        {
+                            "id": "Schulen_T",
+                            "styleId": "Schulen.tx"
+                        }
+                    ]
+                },
+		{
+                    "id": "sanier:1",
+                    "name": "Sanierungsgebiete"                  
+                },
+		{
+                    "id": "denkmal:5",
+                    "name": "Denkmalkarte Berlin"                  
+                }    
+		    
+		    
+		    
+
+
+            ]
+        }
+    }
+}
