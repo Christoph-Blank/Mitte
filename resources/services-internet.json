@@ -159,7 +159,7 @@
     {
         "id": "Gebuehrenzone_F",
         "name": "Gebuehrenzone",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Gebuehrenzone_F.geojson",
+        "url": "/Mitte/resources/geojson/Gebuehrenzone_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -194,7 +194,7 @@
     {
         "id": "Parkzone_L",
         "name": "Parkzone_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Parkzone_L.geojson",
+        "url": "/Mitte/resources/geojson/Parkzone_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -204,7 +204,7 @@
     {
         "id": "Zone_1_F",
         "name": "Zone_1_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_1_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_1_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -229,7 +229,7 @@
     {
         "id": "Zone_1_T",
         "name": "Zone_1_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_1_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_1_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -239,7 +239,7 @@
     {
         "id": "Zone_1_L",
         "name": "Zone_1_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_1_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_1_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -249,7 +249,7 @@
     {
         "id": "Zone_2_F",
         "name": "Zone_2_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_2_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_2_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -274,7 +274,7 @@
     {
         "id": "Zone_2_T",
         "name": "Zone_2_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_2_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_2_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -284,7 +284,7 @@
     {
         "id": "Zone_2_L",
         "name": "Zone_2_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_2_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_2_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -295,7 +295,7 @@
     {
         "id": "Zone_3_F",
         "name": "Zone_3_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_3_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_3_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -320,7 +320,7 @@
     {
         "id": "Zone_3_T",
         "name": "Zone_3_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_3_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_3_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -330,7 +330,7 @@
     {
         "id": "Zone_3_L",
         "name": "Zone_3_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_3_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_3_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -341,7 +341,7 @@
     {
         "id": "Zone_14_F",
         "name": "Zone_14_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_14_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_14_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -366,7 +366,7 @@
     {
         "id": "Zone_14_T",
         "name": "Zone_14_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_14_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_14_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -376,7 +376,7 @@
     {
         "id": "Zone_14_L",
         "name": "Zone_14_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_14_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_14_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -387,7 +387,7 @@
     {
         "id": "Zone_15_F",
         "name": "Zone_15_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_15_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_15_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -412,7 +412,7 @@
     {
         "id": "Zone_15_T",
         "name": "Zone_15_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_15_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_15_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -422,7 +422,7 @@
     {
         "id": "Zone_15_L",
         "name": "Zone_15_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_15_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_15_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -433,7 +433,7 @@
     {
         "id": "Zone_20_F",
         "name": "Zone_20_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_20_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_20_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -458,7 +458,7 @@
     {
         "id": "Zone_20_T",
         "name": "Zone_20_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_20_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_20_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -468,7 +468,7 @@
     {
         "id": "Zone_20_L",
         "name": "Zone_20_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_20_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_20_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -479,7 +479,7 @@
     {
         "id": "Zone_21_F",
         "name": "Zone_21_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_21_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_21_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -504,7 +504,7 @@
     {
         "id": "Zone_21_T",
         "name": "Zone_21_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_21_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_21_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -514,7 +514,7 @@
     {
         "id": "Zone_21_L",
         "name": "Zone_21_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_21_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_21_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -525,7 +525,7 @@
     {
         "id": "Zone_22_F",
         "name": "Zone_22_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_22_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_22_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -550,7 +550,7 @@
     {
         "id": "Zone_22_T",
         "name": "Zone_22_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_22_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_22_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -560,7 +560,7 @@
     {
         "id": "Zone_22_L",
         "name": "Zone_22_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_22_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_22_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -571,7 +571,7 @@
     {
         "id": "Zone_29_F",
         "name": "Zone_29_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_29_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_29_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -596,7 +596,7 @@
     {
         "id": "Zone_29_T",
         "name": "Zone_29_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_29_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_29_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -606,7 +606,7 @@
     {
         "id": "Zone_29_L",
         "name": "Zone_29_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_29_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_29_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -617,7 +617,7 @@
     {
         "id": "Zone_33_F",
         "name": "Zone_33_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_33_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_33_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -642,7 +642,7 @@
     {
         "id": "Zone_33_T",
         "name": "Zone_33_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_33_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_33_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -652,7 +652,7 @@
     {
         "id": "Zone_33_L",
         "name": "Zone_33_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_33_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_33_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -663,7 +663,7 @@
     {
         "id": "Zone_34_F",
         "name": "Zone_34_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_34_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_34_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -688,7 +688,7 @@
     {
         "id": "Zone_34_T",
         "name": "Zone_34_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_34_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_34_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -698,7 +698,7 @@
     {
         "id": "Zone_34_L",
         "name": "Zone_34_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_34_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_34_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -709,7 +709,7 @@
     {
         "id": "Zone_35_F",
         "name": "Zone_35_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_35_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_35_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -734,7 +734,7 @@
     {
         "id": "Zone_35_T",
         "name": "Zone_35_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_35_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_35_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -744,7 +744,7 @@
     {
         "id": "Zone_35_L",
         "name": "Zone_35_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_35_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_35_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -753,7 +753,7 @@
     }, {
         "id": "Zone_36_F",
         "name": "Zone_36_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_36_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_36_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -778,7 +778,7 @@
     {
         "id": "Zone_36_T",
         "name": "Zone_36_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_36_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_36_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -788,7 +788,7 @@
     {
         "id": "Zone_36_L",
         "name": "Zone_36_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_36_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_36_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -799,7 +799,7 @@
     {
         "id": "Zone_37_F",
         "name": "Zone_37_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_37_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_37_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -824,7 +824,7 @@
     {
         "id": "Zone_37_T",
         "name": "Zone_37_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_37_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_37_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -834,7 +834,7 @@
     {
         "id": "Zone_37_L",
         "name": "Zone_37_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_37_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_37_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -845,7 +845,7 @@
     {
         "id": "Zone_38_F",
         "name": "Zone_38_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_38_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_38_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -870,7 +870,7 @@
     {
         "id": "Zone_38_T",
         "name": "Zone_38_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_38_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_38_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -880,7 +880,7 @@
     {
         "id": "Zone_38_L",
         "name": "Zone_38_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_38_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_38_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -891,7 +891,7 @@
     {
         "id": "Zone_41_F",
         "name": "Zone_41_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_41_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_41_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -916,7 +916,7 @@
     {
         "id": "Zone_41_T",
         "name": "Zone_41_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_41_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_41_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -926,7 +926,7 @@
     {
         "id": "Zone_41_L",
         "name": "Zone_41_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_41_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_41_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -937,7 +937,7 @@
     {
         "id": "Zone_70_F",
         "name": "Zone_70_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_70_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_70_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -962,7 +962,7 @@
     {
         "id": "Zone_70_T",
         "name": "Zone_70_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_70_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_70_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -972,7 +972,7 @@
     {
         "id": "Zone_70_L",
         "name": "Zone_70_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_70_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_70_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -982,7 +982,7 @@
     {
         "id": "PSA_Zone_70",
         "name": "PSA_Zone_70",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_70.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_70.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1000,7 +1000,7 @@
     {
         "id": "Zone_71_F",
         "name": "Zone_71_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_71_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_71_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1025,7 +1025,7 @@
     {
         "id": "Zone_71_T",
         "name": "Zone_71_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_71_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_71_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1035,7 +1035,7 @@
     {
         "id": "Zone_71_L",
         "name": "Zone_71_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_71_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_71_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1045,7 +1045,7 @@
     {
         "id": "PSA_Zone_71",
         "name": "PSA_Zone_71",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_71.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_71.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1063,7 +1063,7 @@
     {
         "id": "Zone_72_F",
         "name": "Zone_72_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_72_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_72_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1088,7 +1088,7 @@
     {
         "id": "Zone_72_T",
         "name": "Zone_72_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_72_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_72_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1098,7 +1098,7 @@
     {
         "id": "Zone_72_L",
         "name": "Zone_72_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_72_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_72_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1108,7 +1108,7 @@
     {
         "id": "PSA_Zone_72",
         "name": "PSA_Zone_72",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_72.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_72.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1126,7 +1126,7 @@
     {
         "id": "Zone_73_F",
         "name": "Zone_73_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_73_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_73_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1151,7 +1151,7 @@
     {
         "id": "Zone_73_T",
         "name": "Zone_73_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_73_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_73_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1161,7 +1161,7 @@
     {
         "id": "Zone_73_L",
         "name": "Zone_73_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_73_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_73_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1171,7 +1171,7 @@
     {
         "id": "PSA_Zone_73",
         "name": "PSA_Zone_73",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_73.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_73.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1189,7 +1189,7 @@
     {
         "id": "Zone_74_F",
         "name": "Zone_74_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_74_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_74_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1214,7 +1214,7 @@
     {
         "id": "Zone_74_T",
         "name": "Zone_74_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_74_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_74_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1224,7 +1224,7 @@
     {
         "id": "Zone_74_L",
         "name": "Zone_74_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_74_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_74_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1234,7 +1234,7 @@
     {
         "id": "PSA_Zone_74",
         "name": "PSA_Zone_74",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_74.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_74.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1252,7 +1252,7 @@
     {
         "id": "Zone_75_F",
         "name": "Zone_75_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_75_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_75_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1277,7 +1277,7 @@
     {
         "id": "Zone_75_T",
         "name": "Zone_75_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_75_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_75_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1287,7 +1287,7 @@
     {
         "id": "Zone_75_L",
         "name": "Zone_75_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_75_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_75_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1297,7 +1297,7 @@
     {
         "id": "PSA_Zone_75",
         "name": "PSA_Zone_75",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_75.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_75.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1315,7 +1315,7 @@
     {
         "id": "Zone_76_F",
         "name": "Zone_76_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_76_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_76_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1340,7 +1340,7 @@
     {
         "id": "Zone_76_T",
         "name": "Zone_76_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_76_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_76_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1350,7 +1350,7 @@
     {
         "id": "Zone_76_L",
         "name": "Zone_76_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_76_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_76_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1360,7 +1360,7 @@
     {
         "id": "PSA_Zone_76",
         "name": "PSA_Zone_76",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/PSA_Zone_76.geojson",
+        "url": "/Mitte/resources/geojson/PSA_Zone_76.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1378,7 +1378,7 @@
     {
         "id": "Zone_77_F",
         "name": "Zone_77_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_77_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_77_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1403,7 +1403,7 @@
     {
         "id": "Zone_77_T",
         "name": "Zone_77_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_77_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_77_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1413,7 +1413,7 @@
     {
         "id": "Zone_77_L",
         "name": "Zone_77_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_77_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_77_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1424,7 +1424,7 @@
     {
         "id": "Zone_78_F",
         "name": "Zone_78_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_78_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_78_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1449,7 +1449,7 @@
     {
         "id": "Zone_78_T",
         "name": "Zone_78_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_78_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_78_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1459,7 +1459,7 @@
     {
         "id": "Zone_78_L",
         "name": "Zone_78_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_78_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_78_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1470,7 +1470,7 @@
     {
         "id": "Zone_79_F",
         "name": "Zone_79_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_79_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_79_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1495,7 +1495,7 @@
     {
         "id": "Zone_79_T",
         "name": "Zone_79_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_79_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_79_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1505,7 +1505,7 @@
     {
         "id": "Zone_79_L",
         "name": "Zone_79_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_79_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_79_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1516,7 +1516,7 @@
     {
         "id": "Zone_80_F",
         "name": "Zone_80_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_80_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_80_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1541,7 +1541,7 @@
     {
         "id": "Zone_80_T",
         "name": "Zone_80_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_80_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_80_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1551,7 +1551,7 @@
     {
         "id": "Zone_80_L",
         "name": "Zone_80_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_80_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_80_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1562,7 +1562,7 @@
     {
         "id": "Zone_81_F",
         "name": "Zone_81_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_81_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_81_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1587,7 +1587,7 @@
     {
         "id": "Zone_81_T",
         "name": "Zone_81_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_81_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_81_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1597,7 +1597,7 @@
     {
         "id": "Zone_81_L",
         "name": "Zone_81_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_81_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_81_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1608,7 +1608,7 @@
     {
         "id": "Zone_82_F",
         "name": "Zone_82_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_82_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_82_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1633,7 +1633,7 @@
     {
         "id": "Zone_82_T",
         "name": "Zone_82_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_82_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_82_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1643,7 +1643,7 @@
     {
         "id": "Zone_82_L",
         "name": "Zone_82_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_82_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_82_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1654,7 +1654,7 @@
     {
         "id": "Zone_83_F",
         "name": "Zone_83_F",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_83_F.geojson",
+        "url": "/Mitte/resources/geojson/Zone_83_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1679,7 +1679,7 @@
     {
         "id": "Zone_83_T",
         "name": "Zone_83_T",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_83_T.geojson",
+        "url": "/Mitte/resources/geojson/Zone_83_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1689,7 +1689,7 @@
     {
         "id": "Zone_83_L",
         "name": "Zone_83_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Zone_83_L.geojson",
+        "url": "/Mitte/resources/geojson/Zone_83_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1700,7 +1700,7 @@
     {
         "id": "Parkschein",
         "name": "Parkscheinautomat",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Parkscheinautomaten.geojson",
+        "url": "/Mitte/resources/geojson/Parkscheinautomaten.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1743,7 +1743,7 @@
     {
         "id": "Fernverkehr_L",
         "name": "Fernverkehr",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Fernverkehr_Linien.geojson",
+        "url": "/Mitte/resources/geojson/Fernverkehr_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1756,7 +1756,7 @@
     {
         "id": "Fernverkehr_P",
         "name": "Fernverkehr",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Fernverkehr_Halte.geojson",
+        "url": "/Mitte/resources/geojson/Fernverkehr_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1768,7 +1768,7 @@
     {
         "id": "S-Bahn_L",
         "name": "S-Bahn",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/S-Bahn_Linien.geojson",
+        "url": "/Mitte/resources/geojson/S-Bahn_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1781,7 +1781,7 @@
     {
         "id": "S-Bahn_P",
         "name": "S-Bahn",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/S-Bahn_Halte.geojson",
+        "url": "/Mitte/resources/geojson/S-Bahn_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1793,7 +1793,7 @@
     {
         "id": "U-Bahn_L",
         "name": "U-Bahn",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/U-Bahn_Linien.geojson",
+        "url": "/Mitte/resources/geojson/U-Bahn_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1806,7 +1806,7 @@
     {
         "id": "U-Bahn_P",
         "name": "U-Bahn",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/U-Bahn_Halte.geojson",
+        "url": "/Mitte/resources/geojson/U-Bahn_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1818,7 +1818,7 @@
     {
         "id": "Bus_L",
         "name": "Bus",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Bus_Linien.geojson",
+        "url": "/Mitte/resources/geojson/Bus_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1831,7 +1831,7 @@
     {
         "id": "Bus_P",
         "name": "Bus",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Bus_Halte_1.geojson",
+        "url": "/Mitte/resources/geojson/Bus_Halte_1.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1844,7 +1844,7 @@
     {
         "id": "Tram_L",
         "name": "Tram",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Tram_Linien.geojson",
+        "url": "/Mitte/resources/geojson/Tram_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1857,7 +1857,7 @@
     {
         "id": "Tram_P",
         "name": "Tram",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Tram_Halte.geojson",
+        "url": "/Mitte/resources/geojson/Tram_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1871,7 +1871,7 @@
     {
         "id": "Citytoiletten_P",
         "name": "Citytoiletten",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Citytoiletten_im_Bezirk_Mitte.geojson",
+        "url": "/Mitte/resources/geojson/Citytoiletten_im_Bezirk_Mitte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1920,7 +1920,7 @@
     {
         "id": "Neubauten_Neu",
         "name": "Neubauten",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Neubauten.geojson",
+        "url": "/Mitte/resources/geojson/Neubauten.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1942,7 +1942,7 @@
     {
         "id": "Schulen_T",
         "name": "Schulen_TXT",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Schulen_2021_TX.geojson",
+        "url": "/Mitte/resources/geojson/Schulen_2021_TX.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1952,7 +1952,7 @@
     {
         "id": "Schulen_F",
         "name": "Schulen",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Schulen_2021_FL.geojson",
+        "url": "/Mitte/resources/geojson/Schulen_2021_FL.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1979,7 +1979,7 @@
     {
         "id": "B-Plan_T",
         "name": "Bebauungspläne",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/B-Plan_TX.geojson",
+        "url": "/Mitte/resources/geojson/B-Plan_TX.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1989,7 +1989,7 @@
     {
         "id": "B-Plan_F",
         "name": "Bebauungspläne",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/B-Plan_FL.geojson",
+        "url": "/Mitte/resources/geojson/B-Plan_FL.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2013,7 +2013,7 @@
     {
         "id": "B-Plan_L",
         "name": "Bebauungspläne",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/B-Plan_LI.geojson",
+        "url": "/Mitte/resources/geojson/B-Plan_LI.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2023,7 +2023,7 @@
     {
         "id": "Denkmale_Standbilder_P",
         "name": "Denkmale_Standbilder",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Denkmale_Standbilder.geojson",
+        "url": "/Mitte/resources/geojson/Denkmale_Standbilder.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2048,7 +2048,7 @@
     {
         "id": "Gebaeude_F",
         "name": "Gebäude",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Gebaeude_01_2022.geojson",
+        "url": "/Mitte/resources/geojson/Gebaeude_01_2022.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2066,7 +2066,7 @@
     {
         "id": "Behindertenparkp_P",
         "name": "Behindertenparkplätze",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Behindertenparkp_P.geojson",
+        "url": "/Mitte/resources/geojson/Behindertenparkp_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2120,7 +2120,7 @@
     {
         "id": "Nummerierung_P",
         "name": "Nummerierung_Pkt",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Nummerierungsbezirk_P.geojson",
+        "url": "/Mitte/resources/geojson/Nummerierungsbezirk_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2130,7 +2130,7 @@
     {
         "id": "Nummerierung_F",
         "name": "Nummerierung_Fl",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Nummerierungsbezirk_F.geojson",
+        "url": "/Mitte/resources/geojson/Nummerierungsbezirk_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2140,7 +2140,7 @@
     {
         "id": "Kartenblatt_P",
         "name": "Kartenblatt_Pkt",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Kartenblatt_P.geojson",
+        "url": "/Mitte/resources/geojson/Kartenblatt_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2150,7 +2150,7 @@
     {
         "id": "Kartenblatt_L",
         "name": "Kartenblatt_LI",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Kartenblatt_L.geojson",
+        "url": "/Mitte/resources/geojson/Kartenblatt_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3092,7 +3092,7 @@
 {
 	"id": "Blockakte",
 	"name": "Blockakte",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",
 	"gfiAttributes": {
@@ -3111,7 +3111,7 @@
 {
 	"id": "Blockakte_Abriss",
 	"name": "Blockakte_Abriss",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",
 	"gfiAttributes": {
@@ -3130,7 +3130,7 @@
 {
 	"id": "Blockakte_Gebäude",
 	"name": "Blockakte_Gebäude",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",
 	"gfiAttributes": {
@@ -3149,7 +3149,7 @@
 {
 	"id": "Blockakte_VS_HGN",
 	"name": "Blockakte_VS_HGN",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",
 	"gfiAttributes": {
@@ -3168,7 +3168,7 @@
 {
 	"id": "Blockakte_Sonstiges",
 	"name": "Blockakte_Sonstiges",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",
 	"gfiAttributes": {
@@ -3187,7 +3187,7 @@
 {
 	"id": "Blockakte_Feldvergleich",
 	"name": "Blockakte_Feldvergleich",
-	"url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Blockakte.geojson",
+	"url": "/Mitte/resources/geojson/Blockakte.geojson",
 	"typ": "GeoJSON",
 	"gfiTheme": "default",	
 	"gfiAttributes": {
@@ -3206,7 +3206,7 @@
  {
         "id": "RBS_Bloecke_FL",
         "name": "RBS_Bloecke_FL",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/RBS_Bloecke_FL.geojson",
+        "url": "/Mitte/resources/geojson/RBS_Bloecke_FL.geojson",
         "typ": "GeoJSON",
 	"minScale": "0",
         "maxScale": "10000",
@@ -3218,7 +3218,7 @@
     {
         "id": "RBS_Bloecke_TX",
         "name": "RBS_Bloecke_TX",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/RBS_Bloecke_TX.geojson",
+        "url": "/Mitte/resources/geojson/RBS_Bloecke_TX.geojson",
         "typ": "GeoJSON",
 	"minScale": "0",
         "maxScale": "10000",
@@ -3230,7 +3230,7 @@
 {
         "id": "RBS_Gebiete_LI",
         "name": "RBS_Gebiete_LI",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/RBS_Gebiete_LI.geojson",
+        "url": "/Mitte/resources/geojson/RBS_Gebiete_LI.geojson",
         "typ": "GeoJSON",
 	"minScale": "10000",
         "maxScale": "250000",
@@ -3242,7 +3242,7 @@
     {
         "id": "RBS_Gebiete_TX",
         "name": "RBS_Gebiete_TX",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/RBS_Gebiete_TX.geojson",
+        "url": "/Mitte/resources/geojson/RBS_Gebiete_TX.geojson",
         "typ": "GeoJSON",
 	"minScale": "10000",
         "maxScale": "250000",
@@ -3254,7 +3254,7 @@
     {
         "id": "Recycling_Glass_P",
         "name": "Recycling_Glass",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/Recycling_Glass.geojson",
+        "url": "/Mitte/resources/geojson/Recycling_Glass.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3265,7 +3265,7 @@
     {
         "id": "E-Ladesaeulen_Schnell",
         "name": "E-Ladesaeulen_Schnell",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/E-Ladesaeulen.geojson",
+        "url": "/Mitte/resources/geojson/E-Ladesaeulen.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -3291,7 +3291,7 @@
     {
         "id": "E-Ladesaeulen_Normal",
         "name": "E-Ladesaeulen_Normal",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/E-Ladesaeulen.geojson",
+        "url": "/Mitte/resources/geojson/E-Ladesaeulen.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -3317,7 +3317,7 @@
     {
         "id": "E-Ladesaeulen",
         "name": "E-Ladesaeulen",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/E-Ladesaeulen.geojson",
+        "url": "/Mitte/resources/geojson/E-Ladesaeulen.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3350,7 +3350,7 @@
   {
         "id": "MJP1_OG3_F",
         "name": "MJP1 Geschosse",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG3_F.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG3_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -3373,7 +3373,7 @@
   {
         "id": "MJP1_OG4_F",
         "name": "MJP1 Geschosse",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG4_F.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG4_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -3396,7 +3396,7 @@
  {
         "id": "MJP1_EG_L",
         "name": "MJP1_EG_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_EG_L.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_EG_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3406,7 +3406,7 @@
  {
         "id": "MJP1_OG3_L",
         "name": "MJP1_OG3_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG3_L.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG3_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3416,7 +3416,7 @@
  {
         "id": "MJP1_OG4_L",
         "name": "MJP1_OG4_L",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG4_L.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG4_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3426,7 +3426,7 @@
 {
         "id": "MJP1_EG_P",
         "name": "MJP1_EG_P",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_EG_P.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_EG_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3436,7 +3436,7 @@
 {
         "id": "MJP1_OG3_P",
         "name": "MJP1_OG3_P",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG3_P.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG3_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -3447,7 +3447,7 @@
 {
         "id": "MJP1_OG4_P",
         "name": "MJP1_OG4_P",
-        "url": "/karten_anwendung_berlin_mitte/mitte/resources/geojson/MJP1_OG4_P.geojson",
+        "url": "/Mitte/resources/geojson/MJP1_OG4_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
