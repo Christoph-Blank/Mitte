@@ -184,7 +184,7 @@
     {
         "id": "Parkzone_T",
         "name": "Parkzone_T",
-        "url": "karten_anwendung_berlin_mitte/mitte/resources/geojson/Parkzone_T.geojson",
+        "url": "/Mitte//resources/geojson/Parkzone_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
