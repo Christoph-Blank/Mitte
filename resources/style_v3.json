@@ -1269,7 +1269,7 @@
                     "textStrokeWidth": 1,
                     "textbackgroundFill": [255, 255, 255, 1],
                     "textbackgroundStroke": 20,
-		    "rotation.value": 20
+		    "rotation.value": 90
                 }
             }
 
