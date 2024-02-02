@@ -1253,11 +1253,7 @@
     {
         "styleId": "MJP1.Geschoss.P",
         "rules": [{
-                "conditions": {
-                    "properties": {
-                        "HOEHE": 0.35   
-                 }
-                },
+               
                 "style": {
                     "circleRadius": 0,
                     "circleStrokeColor": [97, 69, 222, 0],
@@ -1272,15 +1268,12 @@
                     "textStrokeColor": [255, 255, 255, 0.8],
                     "textStrokeWidth": 1,
                     "textbackgroundFill": [255, 255, 255, 1],
-                    "textbackgroundStroke": 20
+                    "textbackgroundStroke": 20,
+		    "rotation.value": "HOEHE"
                 }
             },
             {
-                "conditions": {
-                    "properties": {
-                        "HOEHE": 0.26
-                    }
-                },
+                
                 "style": {
 		    "rotation": 90,
 		    "rotation.isDegree": true,
