@@ -1271,28 +1271,6 @@
                     "textbackgroundStroke": 20,
 		    "rotation.value": "HOEHE"
                 }
-            },
-            {
-                
-                "style": {
-		    "rotation": 90,
-		    "rotation.isDegree": true,
-		    "rotation.value": 90,
-                    "circleRadius": 0,
-                    "circleStrokeColor": [97, 69, 222, 0],
-                    "circleStrokeWidth": 0,
-                    "circleFillColor": [255, 255, 255, 0],
-                    "labelField": "AUFSCHRIFT",
-                    "textFont": "Arial",
-                    "textScale": 1,
-                    "textOffsetX": 0,
-                    "textOffsetY": 0,
-                    "textFillColor": [0, 0, 0, 1],
-                    "textStrokeColor": [255, 255, 255, 1],
-                    "textStrokeWidth": 1,
-                    "textbackgroundFill": [255, 255, 255, 1],
-                    "textbackgroundStroke": 20
-                }
             }
 
 
