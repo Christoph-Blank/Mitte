@@ -3,9 +3,9 @@
 "name": "MJP1_OG4_P",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25833" } },
 "features": [
-{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 134, "AUFSCHRIFT": "405" }, "geometry": { "type": "Point", "coordinates": [ 387313.675560426781885, 5820972.10236512683332 ] } },
-{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 235, "AUFSCHRIFT": "404" }, "geometry": { "type": "Point", "coordinates": [ 387313.43978028424317, 5820968.473609487526119 ] } },
-{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 34, "AUFSCHRIFT": "403" }, "geometry": { "type": "Point", "coordinates": [ 387313.22975859901635, 5820965.040847044438124 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "405" }, "geometry": { "type": "Point", "coordinates": [ 387313.675560426781885, 5820972.10236512683332 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "404" }, "geometry": { "type": "Point", "coordinates": [ 387313.43978028424317, 5820968.473609487526119 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "403" }, "geometry": { "type": "Point", "coordinates": [ 387313.22975859901635, 5820965.040847044438124 ] } },
 { "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "406" }, "geometry": { "type": "Point", "coordinates": [ 387316.460941513651051, 5820971.834661783650517 ] } },
 { "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "407" }, "geometry": { "type": "Point", "coordinates": [ 387316.227123828837648, 5820968.265281308442354 ] } },
 { "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "408" }, "geometry": { "type": "Point", "coordinates": [ 387316.001539304445032, 5820964.821585432626307 ] } },
